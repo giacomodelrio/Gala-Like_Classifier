@@ -1,4 +1,5 @@
-# Biotic_Poster
+# GALA-Like scoring model
+
 
 
 
